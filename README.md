@@ -42,7 +42,7 @@ Editors use the admin panel to publish, edit and delete articles and manage cate
 ```
 online-news-application/
 ├── backend/                         Spring Boot REST API
-│   └── src/main/java/com/pratik/news/
+│   └── src/main/java/com/prachi/news/
 │       ├── controller/              REST controllers
 │       ├── service/                 Business logic
 │       ├── repository/              Spring Data JPA repositories
@@ -140,4 +140,4 @@ Open **http://localhost:5173**.
 
 ## 👨‍💻 Author
 
-**Pratik Raut** – Java Full Stack Developer
+**Prachi Karad** – Java Full Stack Developer

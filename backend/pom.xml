@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.pratik</groupId>
+    <groupId>com.prachi</groupId>
     <artifactId>online-news-application</artifactId>
     <version>1.0.0</version>
     <name>online-news-application</name>
